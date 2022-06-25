@@ -1,0 +1,2 @@
+# hackerrank-solve
+çözdüğüm sorular
